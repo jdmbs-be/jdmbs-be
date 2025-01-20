@@ -1,13 +1,15 @@
 ### Hi there! 👨‍💻 👋
 
-I'm here to share the exciting journey of Timefold's evolution from OptaPlanner. As a marketer, I'm passionate about making complex optimization accessible to developers.
-### About Timefold (formerly OptaPlanner)
-You might remember OptaPlanner, a metaheuristics constraints-based solver, started by [Ge0ffrey](https://github.com/ge0ffrey) and matured under the wings of Red Hat. Geoffrey De Smet and the original OptaPlanner team are now continuing the project as [Timefold](https://github.com/TimefoldAI/timefold-solver). Why OptaPlanner continues as Timefold can be read in our fork message on [our blog](https://timefold.ai/blog/2023/optaplanner-fork).
-Timefold is an open source AI solver to optimize operations and scheduling in Java. Used to optimize Vehicle Routing, Employee scheduling, Order Picking Scheduling, Last-mile-delivery routing, Production Line Scheduling, and much more.
-Our [Timefold Solver repo](https://github.com/TimefoldAI/timefold-solver) and [Quickstarts](https://github.com/TimefoldAI/timefold-quickstarts) repos are here to help developers like you solve intricate planning puzzles. From route optimization to shift scheduling, we're dedicated to empowering you to build smarter, more optimized software.
-🌟 Thanks in advance for starring the [Timefold Solver repo](https://github.com/TimefoldAI/timefold-solver).
-📫 Contact:
-Have questions or just want to chat? Feel free to reach out anytime at jente@timefold.ai.
-<!--
-**Jdmbs/Jdmbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Welcome to my GitHub profile! I’m excited to share my journey as a marketer passionate about empowering developers and businesses with cutting-edge tools for optimization and operational efficiency.
+
+About Factry
+
+I’m currently the Head of Marketing at Factry, a Belgian software company specialized in manufacturing intelligence. Factry provides modern tools like the Factry Historian that bring clarity to industrial data. Our goal? Help manufacturing businesses turn data into actionable insights, improve efficiency, and unlock untapped potential.
+
+At Factry, we’re all about innovation in the manufacturing sector:
+	•	Factry Historian: A scalable, time-series database designed to handle industrial data with ease.
+	•	MES Solutions: Bringing simplicity and flexibility to manufacturing execution systems.
+	•	Collaborations: We integrate seamlessly with platforms like Grafana to provide real-time data visualization and insights.
+
+📫 Email: demeyej@factry.io
+🌐 LinkedIn:[LinkedIn](https://www.linkedin.com/in/jentedemeyer/)
