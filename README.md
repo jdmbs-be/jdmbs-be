@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m excited to share my journey as a marketer passionate about empowering businesses with stuff, not fluff.
 
-Try our Open-Source Historian – Now on Docker Compose. A modern alternative to legacy Historians.
+Try our Open-Source Industrial Data Historian – Now on Docker Compose. A modern alternative to legacy Historians.
 Spin up Factry Historian in 2 minutes → https://github.com/factrylabs/historian
 
 It’s open-source, ready-to-go via Docker Compose, and built for data engineers, integrators, and open-source fans in manufacturing.
